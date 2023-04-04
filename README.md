@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, this is **rockleona**
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rockleona)](https://github.com/LordDashMe/github-contribution-stats/)
+
+## Current State 🙌🙌
++ Located in Taipei, Taiwan
++ A Fullstack Developer (but better in frontend❤️)
 
 <!--
 **rockleona/rockleona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
