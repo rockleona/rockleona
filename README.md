@@ -1,6 +1,8 @@
 # Hi, this is **rockleon**
 > as known as "rockleona", "LH"
 
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockleona&theme=2077)
+
 ## Current State 🙌🙌
 + Located in Taipei, Taiwan
 + A Fullstack Developer (but better in frontend❤️)
@@ -40,12 +42,6 @@
 |      Cloud | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)                    |
 |      CI/CD |![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 |    Hosting | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)                   |
-
-
-## Github Status
-![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockleona&theme=2077)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rockleona&theme=tokyonight)<br>
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rockleona&theme=tokyonight)
 
 <!--
 **rockleona/rockleona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
