@@ -10,7 +10,7 @@
 
 ## More Info 
 + [The RockLeona](https://hi.rockleon.dev/)
-+ [RockLeon's DevBlog](https://hi.rockleon.dev/blog/)
++ [RockLeon's DevBlog](https://blog.rockleon.dev)
 
 ## My Skill Stack 💻
 ### Frontend
