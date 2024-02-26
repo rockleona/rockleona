@@ -6,7 +6,10 @@
 ## Current State 🙌🙌
 + Located in Taipei, Taiwan
 + A Senior Software Engineer @ [Inventec](https://www.inventec.com/), work as a Web Fullstack Developer (but better in frontend❤️)
-+ Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
++ Volunteer in Taiwan Developer Communities 💻😍:
+    + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+    + Event Organizer in [sciwork](https://sciwork.dev/)
+    + Frontend Developer in [PyCon Taiwan 2024](https://tw.pycon.org/2024)
 
 ## More Info 
 + [The RockLeona](https://hi.rockleon.dev/)
