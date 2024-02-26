@@ -5,7 +5,7 @@
 
 ## Current State 🙌🙌
 + Located in Taipei, Taiwan
-+ A Fullstack Developer (but better in frontend❤️)
++ A Senior Software Engineer @ [Inventec](https://www.inventec.com/), work as a Web Fullstack Developer (but better in frontend❤️)
 + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 
 ## More Info 
