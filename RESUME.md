@@ -3,7 +3,7 @@
 ### Contact
 + Email : therockleona [ at ] gmail.com
 + Phone : +886-972-787-577
-+ LinkedIn : [Li-Hung Wang](www.linkedin.com/in/li-hung-leon-wang)
++ LinkedIn : [Li-Hung Wang](https://www.linkedin.com/in/li-hung-leon-wang)
 
 ### Work Experience
 + Senior Software Engineer, Inventec
