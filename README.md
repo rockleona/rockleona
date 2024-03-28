@@ -12,7 +12,7 @@
     + Frontend Developer in [PyCon Taiwan 2024](https://tw.pycon.org/2024)
 + Technical Translations (Volunteer):
     + [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-    + [starship](https://github.com/starship/starship)
+    + [starship](https://github.com/starship/starship): [#5833](https://github.com/starship/starship/pull/5883)
 
 ## More Info 
 + [The RockLeona](https://hi.rockleon.dev/)
