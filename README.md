@@ -10,7 +10,7 @@
     + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + Event Organizer in [sciwork](https://sciwork.dev/)
     + Frontend Developer in [PyCon Taiwan 2024](https://tw.pycon.org/2024)
-+ Technical Translations (Volunteer):
++ Technical Translations:
     + [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + [starship](https://github.com/starship/starship): [#5833](https://github.com/starship/starship/pull/5883)
 
