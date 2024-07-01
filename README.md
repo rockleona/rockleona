@@ -9,6 +9,7 @@
 + Volunteer in Taiwanese Developer Communities 💻😍:
     + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + Event Organizer in [sciwork](https://sciwork.dev/)
+    + Managing Member of [Python Software Foundation](https://www.python.org/psf-landing/)
     + Frontend Developer in [PyCon Taiwan 2024](https://tw.pycon.org/2024)
 + Technical Translations:
     + [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
