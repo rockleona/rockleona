@@ -22,7 +22,10 @@
 + [RockLeon's DevBlog](https://blog.rockleon.dev)
 
 ## Me recently on GitHub
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## My Skill Stack 💻
 <details>
