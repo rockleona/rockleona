@@ -14,10 +14,15 @@
 + Technical Translations:
     + [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + [starship](https://github.com/starship/starship): [#5833](https://github.com/starship/starship/pull/5883)
+    + [hexo](https://github.com/hexojs/site/pulls?q=is:pr+author:rockleona)
+    + [brew.sh](https://github.com/Homebrew/brew.sh/pulls?q=is:pr+author:rockleona)
 
 ## More Info 
 + [The RockLeona](https://hi.rockleon.dev/)
 + [RockLeon's DevBlog](https://blog.rockleon.dev)
+
+## Me recently on GitHub
+<!--START_SECTION:activity-->
 
 ## My Skill Stack 💻
 <details>
