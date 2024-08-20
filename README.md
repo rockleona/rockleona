@@ -25,7 +25,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ## My Skill Stack 💻
 <details>
