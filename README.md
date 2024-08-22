@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1064](https://github.com/Homebrew/brew.sh/pull/1064) in [Homebrew/brew.sh](https://github.com/Homebrew/brew.sh)
-2. 🗣 Commented on [#448](https://github.com/sciwork/swportal/pull/448#issuecomment-2296668875) in [sciwork/swportal](https://github.com/sciwork/swportal)
-3. 🗣 Commented on [#686](https://github.com/python/python-docs-zh-tw/pull/686#issuecomment-2294665912) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 💪 Opened PR [#566](https://github.com/pycontw/pycontw-frontend/pull/566) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 💪 Opened PR [#565](https://github.com/pycontw/pycontw-frontend/pull/565) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🎉 Merged PR [#3](https://github.com/rockleona/blog/pull/3) in [rockleona/blog](https://github.com/rockleona/blog)
+2. 🎉 Merged PR [#4](https://github.com/rockleona/blog/pull/4) in [rockleona/blog](https://github.com/rockleona/blog)
+3. 🎉 Merged PR [#5](https://github.com/rockleona/blog/pull/5) in [rockleona/blog](https://github.com/rockleona/blog)
+4. 💪 Opened PR [#1064](https://github.com/Homebrew/brew.sh/pull/1064) in [Homebrew/brew.sh](https://github.com/Homebrew/brew.sh)
+5. 🗣 Commented on [#448](https://github.com/sciwork/swportal/pull/448#issuecomment-2296668875) in [sciwork/swportal](https://github.com/sciwork/swportal)
 <!--END_SECTION:activity-->
 
 
