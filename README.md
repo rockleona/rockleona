@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/CCIP-App/Portal/pull/25#issuecomment-2351326571) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
-2. 💪 Opened PR [#3](https://github.com/pycontw/CCIP-Puzzle-Chocolate/pull/3) in [pycontw/CCIP-Puzzle-Chocolate](https://github.com/pycontw/CCIP-Puzzle-Chocolate)
-3. 💪 Opened PR [#25](https://github.com/CCIP-App/Portal/pull/25) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
-4. 💪 Opened PR [#2](https://github.com/pycontw/CCIP-Puzzle-Chocolate/pull/2) in [pycontw/CCIP-Puzzle-Chocolate](https://github.com/pycontw/CCIP-Puzzle-Chocolate)
-5. 🎉 Merged PR [#3](https://github.com/rockleona/blog/pull/3) in [rockleona/blog](https://github.com/rockleona/blog)
+1. 💪 Opened PR [#585](https://github.com/pycontw/pycontw-frontend/pull/585) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 💪 Opened PR [#584](https://github.com/pycontw/pycontw-frontend/pull/584) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#28](https://github.com/CCIP-App/Portal/pull/28) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
+4. 💪 Opened PR [#27](https://github.com/CCIP-App/Portal/pull/27) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
+5. 🗣 Commented on [#25](https://github.com/CCIP-App/Portal/pull/25#issuecomment-2351326571) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
 <!--END_SECTION:activity-->
 
 
