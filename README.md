@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#585](https://github.com/pycontw/pycontw-frontend/pull/585) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 💪 Opened PR [#584](https://github.com/pycontw/pycontw-frontend/pull/584) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. 💪 Opened PR [#28](https://github.com/CCIP-App/Portal/pull/28) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
-4. 💪 Opened PR [#27](https://github.com/CCIP-App/Portal/pull/27) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
-5. 🗣 Commented on [#25](https://github.com/CCIP-App/Portal/pull/25#issuecomment-2351326571) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
+1. 🗣 Commented on [#906](https://github.com/python/python-docs-zh-tw/pull/906#issuecomment-2426975547) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 💪 Opened PR [#585](https://github.com/pycontw/pycontw-frontend/pull/585) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#584](https://github.com/pycontw/pycontw-frontend/pull/584) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. 💪 Opened PR [#28](https://github.com/CCIP-App/Portal/pull/28) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
+5. 💪 Opened PR [#27](https://github.com/CCIP-App/Portal/pull/27) in [CCIP-App/Portal](https://github.com/CCIP-App/Portal)
 <!--END_SECTION:activity-->
 
 
