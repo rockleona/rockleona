@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#497](https://github.com/sciwork/swportal/pull/497) in [sciwork/swportal](https://github.com/sciwork/swportal)
-2. 🎉 Merged PR [#7](https://github.com/rockleona/blog/pull/7) in [rockleona/blog](https://github.com/rockleona/blog)
-3. 🎉 Merged PR [#6](https://github.com/rockleona/blog/pull/6) in [rockleona/blog](https://github.com/rockleona/blog)
-4. 💪 Opened PR [#1378](https://github.com/CorentinTh/it-tools/pull/1378) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-5. 🗣 Commented on [#906](https://github.com/python/python-docs-zh-tw/pull/906#issuecomment-2426975547) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🎉 Merged PR [#507](https://github.com/sciwork/swportal/pull/507) in [sciwork/swportal](https://github.com/sciwork/swportal)
+2. 🎉 Merged PR [#497](https://github.com/sciwork/swportal/pull/497) in [sciwork/swportal](https://github.com/sciwork/swportal)
+3. 🎉 Merged PR [#7](https://github.com/rockleona/blog/pull/7) in [rockleona/blog](https://github.com/rockleona/blog)
+4. 🎉 Merged PR [#6](https://github.com/rockleona/blog/pull/6) in [rockleona/blog](https://github.com/rockleona/blog)
+5. 💪 Opened PR [#1378](https://github.com/CorentinTh/it-tools/pull/1378) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 <!--END_SECTION:activity-->
 
 
