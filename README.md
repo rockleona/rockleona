@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/sciwork/swconf2024/pull/16) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
-2. 🎉 Merged PR [#507](https://github.com/sciwork/swportal/pull/507) in [sciwork/swportal](https://github.com/sciwork/swportal)
-3. 🎉 Merged PR [#497](https://github.com/sciwork/swportal/pull/497) in [sciwork/swportal](https://github.com/sciwork/swportal)
-4. 🎉 Merged PR [#7](https://github.com/rockleona/blog/pull/7) in [rockleona/blog](https://github.com/rockleona/blog)
-5. 🎉 Merged PR [#6](https://github.com/rockleona/blog/pull/6) in [rockleona/blog](https://github.com/rockleona/blog)
+1. 💪 Opened PR [#24](https://github.com/sciwork/swconf2024/pull/24) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+2. ❌ Closed PR [#16](https://github.com/sciwork/swconf2024/pull/16) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+3. 💪 Opened PR [#23](https://github.com/sciwork/swconf2024/pull/23) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+4. 💪 Opened PR [#16](https://github.com/sciwork/swconf2024/pull/16) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+5. 🎉 Merged PR [#507](https://github.com/sciwork/swportal/pull/507) in [sciwork/swportal](https://github.com/sciwork/swportal)
 <!--END_SECTION:activity-->
 
 
