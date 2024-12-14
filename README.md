@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/sciwork/swconf2024/pull/31) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
-2. 🎉 Merged PR [#28](https://github.com/sciwork/swconf2024/pull/28) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
-3. 🗣 Commented on [#28](https://github.com/sciwork/swconf2024/pull/28#issuecomment-2537871504) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
-4. 💪 Opened PR [#28](https://github.com/sciwork/swconf2024/pull/28) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
-5. 🎉 Merged PR [#24](https://github.com/sciwork/swconf2024/pull/24) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+1. 💪 Opened PR [#32](https://github.com/sciwork/swconf2024/pull/32) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+2. 🎉 Merged PR [#31](https://github.com/sciwork/swconf2024/pull/31) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+3. 🎉 Merged PR [#28](https://github.com/sciwork/swconf2024/pull/28) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+4. 🗣 Commented on [#28](https://github.com/sciwork/swconf2024/pull/28#issuecomment-2537871504) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
+5. 💪 Opened PR [#28](https://github.com/sciwork/swconf2024/pull/28) in [sciwork/swconf2024](https://github.com/sciwork/swconf2024)
 <!--END_SECTION:activity-->
 
 
