@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#1168](https://github.com/python/python-docs-zh-tw/issues/1168) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2.  Unassigned issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3.  Assigned issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3539838672) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+2.  Assigned issue [#1168](https://github.com/python/python-docs-zh-tw/issues/1168) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3.  Unassigned issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 4.  Assigned issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 💪 Opened PR [#619](undefined) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+5.  Assigned issue [#1167](https://github.com/python/python-docs-zh-tw/issues/1167) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
