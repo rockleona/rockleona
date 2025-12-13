@@ -5,7 +5,7 @@
 
 ## Current State 🙌🙌
 + Located in Taipei, Taiwan
-+ A Senior Software Engineer @ [Inventec](https://www.inventec.com/), work as a Web Fullstack Developer (but better in frontend❤️)
++ Python Developer, Contractor @ Google
 + Volunteer in Taiwanese Developer Communities 💻😍:
     + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + Event Organizer in [sciwork](https://sciwork.dev/)
