@@ -24,7 +24,7 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1176](https://github.com/python/python-docs-zh-tw/pull/1176#issuecomment-3575711727) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 💪 Opened PR [#703](https://github.com/sciwork/swportal/pull/703) in [sciwork/swportal](https://github.com/sciwork/swportal)
 2. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3570967157) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
 3. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3570963068) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
 4. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3539838672) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
