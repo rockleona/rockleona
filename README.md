@@ -24,9 +24,9 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/rockleona/blog/pull/10#issuecomment-3737474533) in [rockleona/blog](https://github.com/rockleona/blog)
-2. 🎉 Merged PR [#703](https://github.com/sciwork/swportal/pull/703) in [sciwork/swportal](https://github.com/sciwork/swportal)
-3. 💪 Opened PR [#703](https://github.com/sciwork/swportal/pull/703) in [sciwork/swportal](https://github.com/sciwork/swportal)
+1. ❗ Opened issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ℹ️ Assigned issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 💪 Opened PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 4. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3539838672) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
 5.  Assigned issue [#1168](https://github.com/python/python-docs-zh-tw/issues/1168) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
