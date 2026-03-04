@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. ℹ️ Assigned issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 💪 Opened PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#619](https://github.com/solvcon/modmesh/pull/619#issuecomment-3539838672) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-5.  Assigned issue [#1168](https://github.com/python/python-docs-zh-tw/issues/1168) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🎉 Merged PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#1213](https://github.com/python/python-docs-zh-tw/pull/1213) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. ❗ Opened issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ℹ️ Assigned issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 💪 Opened PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
 
 
