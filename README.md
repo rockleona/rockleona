@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#1213](https://github.com/python/python-docs-zh-tw/pull/1213) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❗ Opened issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. ℹ️ Assigned issue [#1212](https://github.com/python/python-docs-zh-tw/issues/1212) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 💪 Opened PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060688948) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060024497) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4059827147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 💪 Opened PR [#3](https://github.com/chestercheng/swmailer/pull/3) in [chestercheng/swmailer](https://github.com/chestercheng/swmailer)
+5. 🎉 Merged PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
 
 
