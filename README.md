@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060688948) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060024497) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4059827147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#3](https://github.com/chestercheng/swmailer/pull/3) in [chestercheng/swmailer](https://github.com/chestercheng/swmailer)
-5. 🎉 Merged PR [#4266](https://github.com/ublue-os/bazzite/pull/4266) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4067896098) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060688948) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060024497) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4059827147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 💪 Opened PR [#3](https://github.com/chestercheng/swmailer/pull/3) in [chestercheng/swmailer](https://github.com/chestercheng/swmailer)
 <!--END_SECTION:activity-->
 
 
