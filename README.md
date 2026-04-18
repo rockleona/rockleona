@@ -24,8 +24,8 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4067896098) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060688948) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4273070874) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❗ Opened issue [#1](https://github.com/sciwork/argus/issues/1) in [sciwork/argus](https://github.com/sciwork/argus)
 3. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4060024497) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 4. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4059827147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 5. 💪 Opened PR [#3](https://github.com/chestercheng/swmailer/pull/3) in [chestercheng/swmailer](https://github.com/chestercheng/swmailer)
