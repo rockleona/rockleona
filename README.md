@@ -24,10 +24,10 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#735](https://github.com/sciwork/swportal/pull/735) in [sciwork/swportal](https://github.com/sciwork/swportal)
-2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4273070874) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ❗ Opened issue [#1](https://github.com/sciwork/argus/issues/1) in [sciwork/argus](https://github.com/sciwork/argus)
-4. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4059827147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#735](https://github.com/sciwork/swportal/pull/735) in [sciwork/swportal](https://github.com/sciwork/swportal)
+2. 💪 Opened PR [#735](https://github.com/sciwork/swportal/pull/735) in [sciwork/swportal](https://github.com/sciwork/swportal)
+3. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4273070874) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ❗ Opened issue [#1](https://github.com/sciwork/argus/issues/1) in [sciwork/argus](https://github.com/sciwork/argus)
 5. 💪 Opened PR [#3](https://github.com/chestercheng/swmailer/pull/3) in [chestercheng/swmailer](https://github.com/chestercheng/swmailer)
 <!--END_SECTION:activity-->
 
