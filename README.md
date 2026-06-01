@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#782](https://github.com/solvcon/modmesh/issues/782#issuecomment-4582121891) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-2. 💪 Opened PR [#843](https://github.com/solvcon/modmesh/pull/843) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-3. 💪 Opened PR [#2006](https://github.com/commitizen-tools/commitizen/pull/2006) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#5](https://github.com/sciwork/argus/pull/5) in [sciwork/argus](https://github.com/sciwork/argus)
-5. 🎉 Merged PR [#735](https://github.com/sciwork/swportal/pull/735) in [sciwork/swportal](https://github.com/sciwork/swportal)
+1. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4594270092) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+2. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4592782979) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+3. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4592594463) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#736](https://github.com/sciwork/swportal/issues/736#issuecomment-4592479007) in [sciwork/swportal](https://github.com/sciwork/swportal)
+5. 🔒 Closed issue [#736](https://github.com/sciwork/swportal/issues/736) in [sciwork/swportal](https://github.com/sciwork/swportal)
 <!--END_SECTION:activity-->
 
 
