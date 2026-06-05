@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1213](https://github.com/python/python-docs-zh-tw/pull/1213) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4594270092) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-3. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4592782979) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-4. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4592594463) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#736](https://github.com/sciwork/swportal/issues/736#issuecomment-4592479007) in [sciwork/swportal](https://github.com/sciwork/swportal)
+1. 🎉 Merged PR [#863](https://github.com/solvcon/modmesh/pull/863) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+2. 💪 Opened PR [#863](https://github.com/solvcon/modmesh/pull/863) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+3. 🎉 Merged PR [#1213](https://github.com/python/python-docs-zh-tw/pull/1213) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4594270092) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+5. 🗣 Commented on [#846](https://github.com/solvcon/modmesh/issues/846#issuecomment-4592782979) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
 <!--END_SECTION:activity-->
 
 
