@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#877](https://github.com/solvcon/modmesh/pull/877) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+1. 💪 Opened PR [#877](https://github.com/solvcon/solvcon/pull/877) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 2. ℹ️ Labeled PR [#1](https://github.com/rockleona/modmesh/pull/1) in [rockleona/modmesh](https://github.com/rockleona/modmesh)
-3. 🗣 Commented on [#858](https://github.com/solvcon/modmesh/issues/858#issuecomment-4650066359) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-4. 🗣 Commented on [#858](https://github.com/solvcon/modmesh/issues/858#issuecomment-4648956595) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
-5. 🗣 Commented on [#858](https://github.com/solvcon/modmesh/issues/858#issuecomment-4648885537) in [solvcon/modmesh](https://github.com/solvcon/modmesh)
+3. 🗣 Commented on [#858](https://github.com/solvcon/solvcon/issues/858#issuecomment-4650066359) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+4. 🗣 Commented on [#858](https://github.com/solvcon/solvcon/issues/858#issuecomment-4648956595) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+5. 🗣 Commented on [#858](https://github.com/solvcon/solvcon/issues/858#issuecomment-4648885537) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
