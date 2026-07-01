@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#970](https://github.com/solvcon/solvcon/pull/970#issuecomment-4833132346) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-2. ℹ️ Reopened PR [#970](https://github.com/solvcon/solvcon/pull/970) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-3. ❌ Closed PR [#970](https://github.com/solvcon/solvcon/pull/970) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-4. 🗣 Commented on [#526](https://github.com/solvcon/solvcon/issues/526#issuecomment-4833045653) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-5. 💪 Opened PR [#970](https://github.com/solvcon/solvcon/pull/970) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+1. 🗣 Commented on [#742](https://github.com/sciwork/swportal/pull/742#issuecomment-4849689308) in [sciwork/swportal](https://github.com/sciwork/swportal)
+2. 🗣 Commented on [#970](https://github.com/solvcon/solvcon/pull/970#issuecomment-4833132346) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+3. ℹ️ Reopened PR [#970](https://github.com/solvcon/solvcon/pull/970) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+4. ❌ Closed PR [#970](https://github.com/solvcon/solvcon/pull/970) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+5. 🗣 Commented on [#526](https://github.com/solvcon/solvcon/issues/526#issuecomment-4833045653) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
