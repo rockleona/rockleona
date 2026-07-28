@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#772](https://github.com/solvcon/solvcon/issues/772#issuecomment-5091584265) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-2. 🎉 Merged PR [#1094](https://github.com/solvcon/solvcon/pull/1094) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-3. 🗣 Commented on [#1094](https://github.com/solvcon/solvcon/pull/1094#issuecomment-5010328847) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-4. 🗣 Commented on [#1094](https://github.com/solvcon/solvcon/pull/1094#issuecomment-5009977455) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-5. 🎉 Merged PR [#5](https://github.com/sciwork/argus/pull/5) in [sciwork/argus](https://github.com/sciwork/argus)
+1. 🗣 Commented on [#746](https://github.com/sciwork/swportal/pull/746#issuecomment-5104400198) in [sciwork/swportal](https://github.com/sciwork/swportal)
+2. 🗣 Commented on [#772](https://github.com/solvcon/solvcon/issues/772#issuecomment-5102687506) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+3. 💪 Opened PR [#1205](https://github.com/solvcon/solvcon/pull/1205) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+4. ❌ Closed PR [#1](https://github.com/rockleona/maestro/pull/1) in [rockleona/maestro](https://github.com/rockleona/maestro)
+5. 🗣 Commented on [#772](https://github.com/solvcon/solvcon/issues/772#issuecomment-5091584265) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
