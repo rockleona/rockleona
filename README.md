@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-2. ℹ️ Reopened PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-3. 💪 Opened PR [#4](https://github.com/rockleona/modmesh/pull/4) in [rockleona/modmesh](https://github.com/rockleona/modmesh)
-4. ❌ Closed PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-5. 💪 Opened PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+1. 🎉 Merged PR [#752](https://github.com/sciwork/swportal/pull/752) in [sciwork/swportal](https://github.com/sciwork/swportal)
+2. 🎉 Merged PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+3. ℹ️ Reopened PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+4. 💪 Opened PR [#4](https://github.com/rockleona/modmesh/pull/4) in [rockleona/modmesh](https://github.com/rockleona/modmesh)
+5. ❌ Closed PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
