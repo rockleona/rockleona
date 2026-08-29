@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/rockleona/blog/pull/13) in [rockleona/blog](https://github.com/rockleona/blog)
-2. 💪 Opened PR [#13](https://github.com/rockleona/blog/pull/13) in [rockleona/blog](https://github.com/rockleona/blog)
-3. 🎉 Merged PR [#752](https://github.com/sciwork/swportal/pull/752) in [sciwork/swportal](https://github.com/sciwork/swportal)
-4. 🎉 Merged PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-5. ℹ️ Reopened PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+1. 🗣 Commented on [#1422](https://github.com/solvcon/solvcon/pull/1422#issuecomment-5449962414) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+2. 🎉 Merged PR [#13](https://github.com/rockleona/blog/pull/13) in [rockleona/blog](https://github.com/rockleona/blog)
+3. 💪 Opened PR [#13](https://github.com/rockleona/blog/pull/13) in [rockleona/blog](https://github.com/rockleona/blog)
+4. 🎉 Merged PR [#752](https://github.com/sciwork/swportal/pull/752) in [sciwork/swportal](https://github.com/sciwork/swportal)
+5. 🎉 Merged PR [#1360](https://github.com/solvcon/solvcon/pull/1360) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
