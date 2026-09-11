@@ -5,7 +5,7 @@
 
 ## Current State 🙌🙌
 + Located in Taipei, Taiwan
-+ Python Developer, Contractor @ Google
++ Manufacture Software Engineer @ Wiwynn
 + Volunteer in Taiwanese Developer Communities 💻😍:
     + Contributor of [python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
     + Event Organizer in [sciwork](https://sciwork.dev/)
