@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1537](https://github.com/solvcon/solvcon/pull/1537) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-2. ❗ Opened issue [#1536](https://github.com/solvcon/solvcon/issues/1536) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-3. 🗣 Commented on [#1534](https://github.com/solvcon/solvcon/pull/1534#issuecomment-5634859191) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-4. 💪 Opened PR [#1534](https://github.com/solvcon/solvcon/pull/1534) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
-5. 🎉 Merged PR [#1](https://github.com/rockleona/BrewTank/pull/1) in [rockleona/BrewTank](https://github.com/rockleona/BrewTank)
+1. 🎉 Merged PR [#1537](https://github.com/solvcon/solvcon/pull/1537) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+2. 💪 Opened PR [#1537](https://github.com/solvcon/solvcon/pull/1537) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+3. ❗ Opened issue [#1536](https://github.com/solvcon/solvcon/issues/1536) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+4. 🗣 Commented on [#1534](https://github.com/solvcon/solvcon/pull/1534#issuecomment-5634859191) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+5. 💪 Opened PR [#1534](https://github.com/solvcon/solvcon/pull/1534) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
 <!--END_SECTION:activity-->
 
 
