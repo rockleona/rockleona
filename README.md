@@ -24,11 +24,11 @@
 ## Me recently on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rockleona/blog/pull/15) in [rockleona/blog](https://github.com/rockleona/blog)
-2. 💪 Opened PR [#15](https://github.com/rockleona/blog/pull/15) in [rockleona/blog](https://github.com/rockleona/blog)
-3. 🎉 Merged PR [#14](https://github.com/rockleona/blog/pull/14) in [rockleona/blog](https://github.com/rockleona/blog)
-4. 💪 Opened PR [#14](https://github.com/rockleona/blog/pull/14) in [rockleona/blog](https://github.com/rockleona/blog)
-5. 🎉 Merged PR [#2](https://github.com/rockleona/dungeon-in-my-terminal/pull/2) in [rockleona/dungeon-in-my-terminal](https://github.com/rockleona/dungeon-in-my-terminal)
+1. 💪 Opened PR [#1696](https://github.com/solvcon/solvcon/pull/1696) in [solvcon/solvcon](https://github.com/solvcon/solvcon)
+2. 🎉 Merged PR [#15](https://github.com/rockleona/blog/pull/15) in [rockleona/blog](https://github.com/rockleona/blog)
+3. 💪 Opened PR [#15](https://github.com/rockleona/blog/pull/15) in [rockleona/blog](https://github.com/rockleona/blog)
+4. 🎉 Merged PR [#14](https://github.com/rockleona/blog/pull/14) in [rockleona/blog](https://github.com/rockleona/blog)
+5. 💪 Opened PR [#14](https://github.com/rockleona/blog/pull/14) in [rockleona/blog](https://github.com/rockleona/blog)
 <!--END_SECTION:activity-->
 
 
